@@ -1,0 +1,6 @@
+<svg width="220" height="60" viewBox="0 0 220 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="216" height="56" rx="14" fill="#2563eb" stroke="#1e293b" stroke-width="4"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="bold" fill="#fff" letter-spacing="2">
+    Slide <tspan fill="#facc15">Note</tspan>
+  </text>
+</svg>
