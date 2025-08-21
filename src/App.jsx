@@ -98,7 +98,7 @@ export default function App() {
       <div className={darkMode ? 'dark' : ''}>
         <ThemeToggle darkMode={darkMode} setDarkMode={setDarkMode} />
         <div className="flex flex-col items-center pt-6">
-          <img src="/slide-notes/slide-note-logo.svg" alt="Slide Note logo" className="h-14 w-auto mb-6 select-none" draggable="false" />
+          <img src="/slide-note-logo.svg" alt="Slide Note logo" className="h-14 w-auto mb-6 select-none" draggable="false" />
         </div>
         <Editor presentationId={editingId} onBack={handleBack} />
       </div>
@@ -117,7 +117,7 @@ export default function App() {
     <div className={darkMode ? 'dark' : ''}>
       <ThemeToggle darkMode={darkMode} setDarkMode={setDarkMode} />
       <div className="flex flex-col items-center pt-6">
-        <img src="/slide-notes/slide-note-logo.svg" alt="Slide Note logo" className="h-16 w-auto mb-8 select-none" draggable="false" />
+        <img src="/slide-note-logo.svg" alt="Slide Note logo" className="h-16 w-auto mb-8 select-none" draggable="false" />
       </div>
       <div className="min-h-screen bg-gradient-to-br from-blue-900 via-slate-900 to-indigo-900 flex flex-col items-center py-10 dark:bg-gradient-to-br dark:from-slate-100 dark:via-slate-200 dark:to-blue-100">
   <h1 className="text-3xl font-bold mb-6 drop-shadow text-gray-100 dark:text-gray-900">Minhas Apresentações</h1>
