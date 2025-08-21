@@ -1,7 +1,7 @@
 
 # Slide Note
 
-Slide Note é um aplicativo web moderno para criar, organizar e apresentar notas de apoio para apresentações de slides. Ele foi desenvolvido para ajudar palestrantes, professores e estudantes a manterem suas anotações organizadas e acessíveis durante apresentações, sem perder o foco no conteúdo.
+Slide Note é um aplicativo web para criar, organizar e apresentar notas de apoio para apresentações de slides. Ele foi desenvolvido para ajudar palestrantes, professores e estudantes a manterem suas anotações organizadas e acessíveis durante apresentações, sem perder o foco no conteúdo.
 
 ## Objetivo
 O objetivo do Slide Note é proporcionar uma experiência simples, bonita e eficiente para gerenciar notas de apresentação, permitindo que o usuário:
