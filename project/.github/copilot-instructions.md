@@ -1,0 +1,4 @@
+- [x] Projeto React + Vite inicializado na pasta 'project'.
+- [x] Tailwind CSS instalado e configurado manualmente.
+- [x] Servidor de desenvolvimento iniciado.
+- [ ] Próximos passos: estruturar componentes e lógica para apresentações e slides, salvar no localStorage, criar modo apresentação/carrossel, adicionar testes unitários.
